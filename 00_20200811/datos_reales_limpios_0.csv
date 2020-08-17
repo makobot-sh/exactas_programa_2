@@ -1,0 +1,165 @@
+ID,ApellidoNombre,Genero,Edad,Carrera,Avance,Promedio,NotaBaja,Inglés,Francés,Cuadro,Altura,Peso,AlturaMama,ContexturaMama,AlturaPapa,Zodiaco,HoroscopoChino,Toro
+1,Bob Esponja,Otro,21,Oceanografía,4,6.24,7,5,1,River,64,7,64,Bajita,64,Cáncer,Conejo,1422
+2,"Diamandis, Bagheera",Masculino,38,Otra,5,7.31,4,3,1,Racing,180,1500,23,Bajita,180,Géminis,Perro,550
+3,"Olmos, Justo",Masculino,22,Ciencias Biológicas,3,9,9,4,1,Boca Juniors,180,7500,160,Mediana,170,Virgo,Buey,400
+4,"Cinico, Diogenes",Masculino,20,Otra,1,7,4,5,1,Boca Juniors,1.71,64,1.54,Alta,1.82,Géminis,Dragón,930
+5,Máximo Cozzetti,Masculino,24,Ciencias Biológicas,3,8.3,7,3,1,Racing,179,71,171,Mediana,180,Géminis,Buey,290
+6,"stan, loona",Femenino,21,Ciencias de la Computación,3,8.02,5,5,3,no creo en el fútbol,175,60,163,Mediana,190,Aries,Conejo,300
+7,"Martinez, Carlo",Masculino,28,Ciencias Químicas,5,8.75,4,3,5,River,175,58000,162,Mediana,175,Géminis,Cerdo,700
+8,"Doe, Jane",Femenino,25,Ciencias Biológicas,1,8.65,5,4,1,River Plate,157,65,155,Bajita,168,Libra,Perro,400
+9,Insert Nick Name,Masculino,23,Ciencias Biológicas,4,8.61,6,3,1,Boca Juniors,175,65,160,Mediana,175,Leo,Buey,750
+10,"Baura, Nigi",Masculino,26,Ciencias Biológicas,3,7.71,3,3,1,Dekedaha FC,181,63159,162,Mediana,171,Géminis,Perro,423
+11,"Max,Daniels",Masculino,29,Ciencias Físicas,3,9,9,4,1,Boca Juniors,189,110000,,Alta,,Piscis,,600
+12,"Max, Daniels",Masculino,29,,3,9,9,4,1,Boca Juniors,189,110000,179,Alta,170,Piscis,Cabra,600
+13,"Sierra, Catalina",Femenino,20,Ciencias Biológicas,2,9,7,4,2,Boca ,160,65,165,Mediana,173,Sagitario,Conejo,300
+14,MatchaTea,Femenino,20,Ciencias Biológicas,2,9,7,4,2,Boca Juniors,165,60000,165,Mediana,173,Sagitario,Conejo,500
+15,"Grossi, Julián",Masculino,26,Ciencias Biológicas,3,8,7,3,1,,185,73000,171,Alta,0,Leo,Gallo,462
+16,"Laufeyjarson, Loki",Masculino,28,Ciencias Biológicas,3,8,6,5,3,Ferro,177,68000,165,Mediana,190,Géminis,Caballo,350
+17,"Twain, Mark",Masculino,27,Ciencias Biológicas,4,9.52,6,5,5,Independiente,182,76000,167,Mediana,183,Sagitario,Cerdo,635
+18,Sakachuia,Masculino,25,Ciencias de la Computación,2,,,5,5,,1.78,70,1.64,Mediana,1.71,Leo,Mono,400
+19,"Shoyo, Hinata",Masculino,,Ciencias de la Atmósfera,3,5,3,4,1,Atlanta,168,60000,159,Bajita,178,Capricornio,Serpiente,300
+20,"Lápida, Elvira",Femenino,22,Ciencias Biológicas,4,7.83,4,3,1,Boca Juniors,1.65,54.643662,1.7,Mediana,1.8,Géminis,Tigre,300
+21,"Williams, Hayley",Femenino,31,Ciencias Químicas,5,9,8,5,2,River,168,60000,170,Alta,175,Libra,Gallo,600
+22,"Sanprudencio, Tesifonte",Masculino,22,Ciencias Biológicas,1,9,8,4,1,,170,58000,155,Bajita,172,Libra,Buey,500
+23,"Smalls, Biggie",Masculino,69,Ciencias de la Computación,5,5,1,5,1,,188,179169,160,Bajita,180,Géminis,Rata,350.5484376
+24,"Ross, Diana",Femenino,19,Ciencias de la Computación,1,8.5,3,5,3,Unión de Santa Fe,175,55000,163,Mediana,179,Cáncer,Serpiente,400
+25,"Peña, Flor",Femenino,36,Ciencias Biológicas,5,9.4,7,3,1,,163,52000,158,Bajita,192,Leo,Rata,600
+26,"Farquad, Lord",Masculino,20,Ciencias de la Computación,2,6.33,2,4,2,Tigre,173,74000,156,Bajita,173,Escorpio,Conejo,832
+27,"Ackerman, Levi",Masculino,19,Ciencias Físicas,1,9.35,4,5,1,Boca Juniors,175,60000,172,Alta,176,Virgo,Dragón,200
+28,"Casais, Samanta",Femenino,29,Ciencia y Tecnología de Alimentos,2,9.04,6,2,1,Boca Juniors,155,65500,150,Bajita,170,Cáncer,Gallo,900
+29,"Palazzo, Tomas",Masculino,19,Ciencias de la Computación,1,,,3,1,Boca Juniors,188,72,,Mediana,184,Acuario,Serpiente,300
+30,"Christie, Agatha",Femenino,27,Ciencias Físicas,3,7,2,3,1,River,167,65000,170,Mediana,,Libra,Mono,87
+31,Juan Carlos2,Masculino,29,Ciencias Matemáticas,5,7,4,5,5,Boca Juniors,1.8,100,1.65,Mediana,1.75,Capricornio,Mono,8000
+32,"Albert, Einstein ",Masculino,20,Ciencias Físicas,1,7,4,4,1,Boca Juniors,162,60,164,Mediana,180,Aries,Dragón,500
+33,"Gonzalo, Giordano",Masculino,21,Ciencias Físicas,3,9.18,7,4,1,Boca Juniors,181,77777,170,Alta,180,Virgo,Tigre,615
+34,"Rubia, Cerveza",Otro,35,Ciencias Biológicas,1,7.89,4,4,2,River,165,53,163,Mediana,174,Sagitario,Mono,400
+35,"""Esponja, Bob""",Femenino,20,Ciencias Biológicas,2,8,7,3,1,Boca ,170,63,170,Alta,173,Piscis,Dragón,300
+36,Marcela Helena ,Femenino,26,Ciencias Geológicas,5,8.22,3,4,1,,168,78000,160,Bajita,175,Piscis,Perro,200
+37,"Martin, Candela",Femenino,25,Ciencias Biológicas,1,9,5,3,1,San Lorenzo,1.55,52,1.54,Bajita,1.65,Escorpio,Perro,387
+38,"Erra, Lorenzo",Masculino,25,Ciencias Biológicas,1,8.83,5,5,3,San Lorenzo,1.85,63,1.72,Alta,1.72,Leo,Perro,380
+39,Esteban Quito,Otro,21,Otra,4,4.43,1,3,1,Boca Juniors,168,65000,180,Mediana,168,Leo,Conejo,1990
+40,"Urrutia, Ines",Otro,69,Ciencias Matemáticas,5,6.9,0,1,5,Miguel Angel,50,420,169,Alta,50,Virgo,Rata,250
+41,"El Constructor, Bob",Masculino,22,Ciencias Físicas,3,9,7,4,1,Deportivo Alberdi,176,75000,164,Mediana,174,Leo,Tigre,754
+42,"Domato, Fuego",Masculino,20,Ciencias Físicas,2,8.8,7,2,2,Velez Sarfield,186,972,171,Alta,176,Piscis,Dragón,2873
+43,"Randazzo, Santiago",Masculino,50,Ciencias Físicas,4,7.5,4,4,1,River Plate,170,66000,150,Bajita,185,Libra,Gallo,150
+44,"Suaya, Mariana",Femenino,24,Ciencias Biológicas,5,9.2,7,4,2,Racing,159,47000,155,Mediana,180,Virgo,Cerdo,600
+45,"Grassano, Juan Santiago",Masculino,21,Ciencias Químicas,3,7.77,4,3,1,Deportivo Alberdi,182,73500,163,Mediana,175,Escorpio,Tigre,400
+46,Aquiles Vaesa,Otro,33,Ciencias Geológicas,3,7.75,4,1,3,Aldosivi,1.73,67,1.58,Mediana,1.72,Leo,Caballo,500
+47,"Thoreau, Henry ",Masculino,21,Ciencias Físicas,3,9.7,9,4,1,Ferro,182,7500,178,Alta,173,Acuario,Tigre,650
+48,"Stacy, Gwen",Femenino,23,Otra,5,8.18,7,4,1,River,171,74000,166,Mediana,177,Aries,Buey,150
+49,"Grey, Jean",Femenino,22,Ciencias Biológicas,2,8.75,1,4,1,,169,52000,158,Bajita,178,Leo,Tigre,900
+50,"Castro, Fidel",Masculino,75,Ciencias Matemáticas,3,9.5,8,2,1,Temperley,191,80000,175,Mediana,190,Leo,Dragón,400
+51,"Octogono Miller, Fantasy",Masculino,22,Ciencias Físicas,3,9,8,4,2,Boca Juniors,180,680,167,Mediana,183,Leo,Tigre,366
+52,"Lorenzo, Ezequiel",Masculino,30,Ciencias Biológicas,3,7,4,4,1,,1.64,70,1.5,Bajita,1.7,Géminis,Caballo,270
+53,"Long, Jake",Masculino,23,Ciencias Biológicas,4,8.8,7,3,3,Racing,176,83000,160,Bajita,178,Capricornio,Rata,650
+54,"Kahn, Sebastián",Masculino,19,Ciencias de la Computación,1,8.5,7,3,2,Racing,174,60000,160,Bajita,170,Aries,Dragón,500
+55,tazadecafe,Masculino,25,Ciencias Biológicas,5,8,4,4,1,River,1.7,70,1.65,Mediana,1.8,Sagitario,Perro,340
+56,"Ipup, Iara",Femenino,19,Ciencias Biológicas,1,9,7,5,1,Boca Juniors,165,58000,162,Mediana,171,Libra,Dragón,900
+57,"Baggins, Bilbo",Masculino,19,Ciencias de la Computación,1,,,5,1,Independiente,181,70000,165,Bajita,187,Escorpio,Dragón,600
+58,Jorge Milanesa,Masculino,32,Ciencias Físicas,1,10,10,3,1,Argentina,200,200,300,Bajita,300,Tauro,Serpiente,300
+59,"melanops, Trichothraupis",Femenino,23,Ciencias Biológicas,4,8.41,3,5,1,River,154,54000,162,Mediana,175,Tauro,Buey,489
+60,Fer Giova,Masculino,30,Ciencias Físicas,5,7.02,4,3,1,Boca Juniors,170,70,160,Mediana,165,Cáncer,Caballo,800
+61,Mauro,Masculino,22,Ciencias de la Computación,3,5,1,4,1,Estudianted ,1.75,65,1.7,Mediana,1.75,Géminis,Rata,350
+62,"Schwint, Elena",Femenino,23,Otra,5,7.93,5,4,4,Boca Juniors,163,60000,161,Mediana,163,Libra,Rata,460
+63,"Zangoni, Sebastian",Masculino,24,Ciencias Químicas,5,10,9,4,1,River Plate,166,63000,153,Bajita,174,Escorpio,Cerdo,500
+64,"Riera, Leandro",Masculino,21,Ciencias de la Computación,3,8.25,4,3,1,Boca ,172,70000,162,Mediana,165,Leo,Tigre,130
+65,"RIquelme, Roman",Masculino,42,Otra,5,10,10,2,1,Boca Juniors,183,80000,160,Bajita,180,Cáncer,Tigre,450
+66,Lisandro Lopez,Masculino,45,Ciencias Biológicas,5,10,9,1,5,Racing,190,90000,160,Mediana,180,Leo,Perro,1000
+67,"Pillud, Iván",Masculino,34,Otra,4,8,4,2,1,Racing,178,80000,165,Mediana,170,Tauro,Tigre,800
+68,Vitali Lucas,Masculino,20,Ciencias de la Computación,1,8,5,4,1,Boca Juniors,169,59000,165,Mediana,180,Acuario,Dragón,557
+69,"Garbulsky, Juli",Masculino,22,Ciencias Matemáticas,1,,,4,1,Boca Juniors,178,62548,162,Mediana,171,Cáncer,,406
+70,Betty Boop,Femenino,19,Ciencias Biológicas,1,8.5,7,5,2,Racing,,,160,Bajita,,Leo,Mono,800
+71,"Fort, Ricky",Masculino,45,Ciencias Físicas,1,9.5,9,5,5,Boca Juniors,183,96600,168,Mediana,170,Capricornio,Rata,2000
+72,,,,,2,,,4,2,,,,,,,,,
+73,"Schneider, Julieta",Femenino,26,Ciencias Químicas,5,8.04,5,5,1,Chimichangas,153,49000,149,Bajita,172,Piscis,Perro,300
+74,"Medano, Marin",Masculino,24,Ciencias Químicas,5,8.2,6,3,1,Independiente,170,60,160,Mediana,166,Acuario,Rata,350
+75,"Calcu, Pablo",Masculino,30,Otra,5,9.13,8,4,5,Chacarita Jrs.,176,65,160,Mediana,175,Leo,Mono,314
+76,"DeWitt, Booker",Masculino,37,Otra,4,7.14,1,5,1,Boca Juniors,185,86000,156,Bajita,183,Escorpio,Tigre,430
+77,"Pertusi, Ciro",Masculino,35,Ciencias Biológicas,2,8.3,3,3,1,Atlanta,190,91300,149,Bajita,187,Libra,Rata,1200
+78,"Wolf, Stu",Masculino,24,Ciencias Biológicas,5,8.7,7,5,3,,176,68000,,,178,Capricornio,Cerdo,550
+79,"Jones, Bridget",Femenino,38,Ciencia y Tecnología de Alimentos,3,7.9,4,5,2,Arsenal,162,6500,158,Bajita,178,Géminis,Perro,500
+80,"Noether, Emmy",Femenino,27,Ciencias Matemáticas,5,9,7,5,1,,183,5133,161,Bajita,185,Géminis,Dragón,220
+81,"Fort, Ricky",Masculino,24,Ciencias Biológicas,4,7.33,4,5,2,Racing,180,81000,175,Mediana,180,Acuario,Rata,2000
+82,Patti Smith,Femenino,24,Ciencias Biológicas,5,8,4,4,1,Boca Juniors,177,75,170,Mediana,175,Libra,Cerdo,1400
+83,"De Beauvoir, Simone",Femenino,25,Ciencias Biológicas,5,9,9,4,3,Tomba,160,52000,168,Bajita,178,Piscis,Cerdo,550
+84,"Al Horno, Batata",Femenino,20,Ciencias de la Computación,2,2.5,1,5,3,,163,74000,165,Mediana,171,Acuario,Dragón,1500
+85,"Torres, Belana",Femenino,26,Ciencias Geológicas,5,9,5,5,1,River,163,48000,162,Mediana,172,Leo,Perro,200
+86,"Naranja, Flor",Femenino,23,Ciencias Biológicas,5,9.1,8,5,2,,162,5800,165,Mediana,165,Capricornio,Rata,900
+87,"Constenla, Dana",Femenino,35,Ciencias Biológicas,5,9.43,8,4,2,Racing,164,53,164,Mediana,176,Capricornio,Rata,450
+88,"Rosa, Pantera",Femenino,25,Ciencias Biológicas,5,8.5,3,5,3,San Lorenzo,170,60,160,Mediana,180,Géminis,Cerdo,213
+89,"Andromica, Rosaura",Femenino,31,Ciencias Biológicas,5,8.25,4,4,2,,158,4500,157,Mediana,165,Cáncer,Serpiente,400
+90,"peron, juan",Otro,20,Otra,1,9,5,2,1,Boca Juniors,180,85,150,Bajita,180,Virgo,Conejo,600
+91,"Mastropiero, Johan Sebastian",Masculino,24,Ciencias Biológicas,5,7.76,4,2,2,Nueva Chicago,178,74000,160,Mediana,170,Aries,Rata,560
+92,"García, Charly",Masculino,68,Ciencias Químicas,5,4.7,1,2,1,River Plate,194,72000,172,Mediana,193,Escorpio,Conejo,470
+93,aye arias,Femenino,36,Ciencias Químicas,5,7,4,4,1,San Lorenzo,159,70000,155,Mediana,165,Tauro,Rata,600
+94,"Agranatti,Carola",Femenino,21,Ciencias Biológicas,2,7.83,7,4,2,Talleres de Córdoba,167,51000,168,Mediana,173,Cáncer,Conejo,800
+95,"Posbeyikian, Andres",Masculino,23,Ciencias Biológicas,4,8.9,5,5,3,Racing,180,75,168,Mediana,169,Géminis,Buey,600
+96,"Weneger, Alfred",Masculino,27,Ciencias Geológicas,5,8.77,5,3,1,Huracan,170,72000,164,Mediana,183,Leo,Mono,800
+97,"James, Rick",Masculino,27,Otra,5,8.5,6,5,2,Boca ,173,80,155,Bajita,174,Acuario,Mono,200
+98,"Castañeiras, Mario",Masculino,27,Ciencia y Tecnología de Alimentos,4,7.69,5,3,2,River Plate,1.65,65,1.58,Mediana,1.7,Virgo,Gallo,500
+99,"DeLarge, Alex",Masculino,18,Ciencias de la Computación,1,7.93,4,4,1,Boca Juniors,1.77,72000,1.65,Mediana,1.69,Sagitario,Tigre,300
+100,"Suárez, Rodrigo",Masculino,21,Ciencias Químicas,2,8.66,8,5,1,Chacarita Jrs.,175,67000,160,Bajita,180,Géminis,Conejo,300
+101,"Panda, Po",Femenino,25,Ciencias Químicas,5,9,6,5,1,,170,68000,168,Mediana,172,Virgo,Tigre,310
+102,"Munho, Facundo ""kuis""",Masculino,20,Ciencias Físicas,1,6.33,3,4,1,,169,798000,165,Mediana,172,Leo,Conejo,500
+103,"Graves, Robert",Masculino,20,Ciencias Matemáticas,1,9.7,9,4,1,Independiente,178,60000,151,Bajita,174,Géminis,Dragón,580
+104,Principi Sebastian,Masculino,29,Ciencias Geológicas,5,8.78,6,5,1,Boca Juniors,170,70000,150,Bajita,174,Escorpio,Caballo,500
+105,"Gonsales, Francisco",Masculino,25,Ciencias Físicas,4,8,4,3,1,Boca Juniors,182,75000,170,Alta,170,Géminis,Cabra,3500
+106,"Mankell, Luka",Masculino,22,Ciencias de la Computación,2,8.5,4,2,1,Argentinos Juniors,190,85000,166,Mediana,179,Piscis,Serpiente,1500
+107,Nautilus,Masculino,25,Ciencias Biológicas,4,7.5,5,3,1,FC Barcelona,164,65000,162,Mediana,168,Capricornio,Perro,800
+108,Mimo Ico,Masculino,24,Ciencias Biológicas,5,8.73,5,4,3,Atlanta,189,70000,158,Bajita,175,Géminis,Mono,346
+109,"Perón, Juan Domingo",Masculino,24,Ciencias Biológicas,5,8.17,7,3,1,River Plate,175,70000,163,,185,Piscis,Rata,500
+110,Claudio Paul Caniggia,Masculino,37,,4,7,2,4,2,San Lorenzo,181,98,160,Mediana,170,Sagitario,Perro,600
+111,"Sister, Caterina",Femenino,24,Ciencias Biológicas,5,8,5,5,3,Boca ,176,63000,174,Alta,196,Capricornio,Rata,600
+112,Yhorzo,Masculino,23,Ciencias Físicas,1,9,8,5,2,Gimnasia y Esgrima de La Plata,1.8,7100,168,Mediana,175,Libra,Rata,168
+113,Hannah Montana ,Femenino,24,Ciencias Biológicas,5,9,7,4,3,Boca Juniors,170,60000,160,Mediana,175,Acuario,Rata,200
+114,"Beltran, Juan Manuel",Masculino,21,Otra,1,,,4,1,Boca Juniors,183,77000,174,Mediana,176,Acuario,Conejo,310
+115,"""Raul,Anibal""",Masculino,53,Paleontología,5,5.23,1,5,5,Nueva Chicago,145,80000,155,Bajita,188,Leo,Conejo,250
+116,"Ant, Luciana",Femenino,22,Ciencias Biológicas,3,8.34,6,4,1,Boca ,153,5200,149,Bajita,173,Libra,Rata,150
+117,rodolfo balcarse,Masculino,40,Ciencias de la Atmósfera,5,10,10,5,5,Montpellier Hérault Sport Club,160,60000,160,Mediana,165,Capricornio,Mono,150
+118,"Beifong, Toph",Femenino,20,Ciencias Biológicas,2,9.25,8,4,1,San Lorenzo,173,80000,164,Mediana,167,Capricornio,Dragón,400
+119,Pepa Sánchez,Femenino,24,Ciencias Biológicas,5,9.38,8,3,1,,175,5500,170,Alta,180,Géminis,Rata,1000
+120,"Bismuto, Clatrina",Femenino,20,Ciencias Biológicas,2,8.5,7,4,1,Racing,1.65,70000,175,Alta,180,Sagitario,Rata,367
+121,"Rapinoe, Megan",Femenino,23,Ciencias Geológicas,3,9,7,4,1,River,1.6,60,1.6,Bajita,1.7,Capricornio,Buey,100
+122,"Dominguez, Martina",Femenino,20,Ciencias de la Computación,2,8,4,4,1,Boca Juniors,160,55,157,Mediana,172,Acuario,Dragón,250
+123,"Pato, Elsa",Femenino,69,Oceanografía,5,9.07,7,4,1,Gimnasia y Esgrima de Ciudadela,162,74000,182,Alta,161,Cáncer,Cerdo,270
+124,"Pasión, Buty",Femenino,14,Ciencias Biológicas,4,8.5,3,3,4,Chacarita Jrs.,25,2500,154,Bajita,0,Géminis,Perro,700
+125,"Legrand, Mirtha",Femenino,20,Ciencias Biológicas,2,9.8,9,5,3,Boca Juniors,163,6300,160,Mediana,175,Capricornio,Conejo,800
+126,"Barrett, Syd",Masculino,20,Ciencias Biológicas,1,,,4,2,Boca ,190,6500,175,Mediana,180,Leo,Dragón,489
+127,"Simpson, Marge",Femenino,22,Ciencias Biológicas,4,7.94,4,5,4,Racing,1.57,70,1.65,Mediana,1.68,Piscis,Tigre,300
+128,HAL,Masculino,28,Ciencias Biológicas,5,8,7,5,1,Boca Juniors,180,70,155,Bajita,165,Cáncer,Mono,1200
+129,"Lapicera, negra ",Masculino,20,Ciencias Biológicas,2,8,7,4,3,Boca ,173,70,160,Mediana,178,Virgo,Tigre,120
+130,,Masculino,20,Ciencias Biológicas,2,9.2,8,3,1,Boca Juniors,177,64500,167,Bajita,172,Géminis,Dragón,1100
+131,"Landa, Lalo",Masculino,22,Ciencias Físicas,4,9,6,4,1,San Lorenzo,180,60,171,Mediana,175,Tauro,Dragón,500
+132,"Kirchner, Mauricio",Masculino,24,Ciencias Biológicas,5,8.2,4,4,1,Boca ,1.82,65000,170,Alta,175,Cáncer,Rata,300
+133,Vladimir Putin,Masculino,67,Ciencias Físicas,5,9.8,9,5,5,Boca Juniors,168,80000,154,Bajita,186,Sagitario,Dragón,500
+134,Cocaña Juan,Masculino,20,Ciencias Físicas,1,,,5,1,,173,63578.346,155,Bajita,177,Escorpio,Conejo,420
+135,"Builder, Bob",Masculino,26,Ciencias Matemáticas,1,,,5,3,River,175,80,165,Mediana,180,Escorpio,,1500
+136,Jane Austen,Femenino,33,Ciencias Biológicas,3,8,6,3,1,River Plate,170,63000,168,Alta,180,Tauro,Tigre,1000
+137,Marty McFly,Femenino,32,Ciencias Biológicas,5,7.85,2,5,3,River,163,58000,165,Mediana,170,Escorpio,Conejo,500
+138,"Peperini, Lanicoco",Femenino,45,Ciencias Biológicas,3,7.25,4,3,1,Boca Juniors,180,96000,170,Mediana,175,Sagitario,Cerdo,450
+139,"Sánchez, Gonzalo",Masculino,28,Ciencias Biológicas,5,7.91,5,4,2,San Lorenzo,174,67000,160,Mediana,170,Piscis,Mono,450
+140,Marcó Berberian Francisco Gabriel,Masculino,20,Ciencias Biológicas,2,8.8,8,2,1,Velez Sarfield,181,65000,153,Bajita,180,Capricornio,Dragón,2800
+141,"Brassica, Wassabi",Otro,26,Ciencias Biológicas,5,9,8,5,3,Racing,168,59,165,Mediana,180,Sagitario,Gallo,328
+142,Josh Dun,Masculino,32,Ciencias Biológicas,2,7,6,5,1,Boca Juniors,169,69420,188,Alta,155,Virgo,Buey,199
+143,"""Chaves, Augusto""",Masculino,23,Ciencias Biológicas,3,8.76,8,5,1,Boca Juniors,1.83,83000,170,Mediana,180,Virgo,Rata,500
+144,"Hernandez, Rúben",Masculino,29,Ciencias Físicas,3,8.5,7,3,3,Boca Juniors,174,6900,170,Mediana,165,Libra,Caballo,350
+145,Marie Claire,Femenino,28,Ciencias Químicas,5,7.21,2,4,1,,162,47000,167,Mediana,173,Escorpio,Cabra,487
+146,"Isaco,Abitbol",Masculino,55,Ciencias de la Computación,1,8,4,3,1,Boca Juniors,1.8,83,1.6,Bajita,1.8,Escorpio,Cerdo,233
+147,"Sapochnik, Daiana",Femenino,37,Ciencias Biológicas,5,8.23,2,5,1,Velez Sarfield,155,52000,154,Bajita,167,Géminis,Cerdo,490
+148,"Estropajo, Roberto",Otro,13,Ciencias de la Atmósfera,2,9.02,39,5,1,Boca Juniors,175,6100,171,Mediana,182,Acuario,Rata,420
+149,"Gomez,Valeria",Femenino,25,Ciencias Biológicas,4,8.5,5,4,2,,159,49000,154,Bajita,178,Cáncer,Cerdo,300
+150,"Wazowski, Mike",Femenino,22,Ciencias Biológicas,3,7.75,6,4,1,Boca ,160,60000,155,Mediana,172,Sagitario,Buey,1500
+151,Santana Macuca,Femenino,27,Ciencias Químicas,4,8.81,7,3,3,,160,56600,165,Mediana,170,Libra,Mono,300
+152,"Simone, Nina",Femenino,26,Ciencias de la Computación,1,7,,3,1,River,165,55000,150,Bajita,170,Leo,Perro,1000
+153,"Lamela, Facundo",Masculino,20,Ciencias Biológicas,2,8.5,2,5,1,River,190,70000,182,Alta,187,Sagitario,Caballo,560
+154,Franco Salvatore,Masculino,20,Ciencias Biológicas,1,8.666667,7,4,1,BVB 09,1.8,77,164,Bajita,198,Acuario,Dragón,500
+155,"General, Iroh",Masculino,60,Ciencias Biológicas,3,8,6,2,1,Boca Juniors,173,80000,150,Mediana,175,Escorpio,Dragón,800
+156,"Frodo, Bolson",Masculino,25,Ciencias Geológicas,5,8,6,5,2,Newells,1.68,63,1.62,Mediana,1.66,Sagitario,Perro,300
+157,"Gobz, Florencia",Femenino,20,Ciencias de la Computación,1,8.56,4,5,1,Lanús,153,60000,157,Bajita,170,Capricornio,Conejo,300
+158,"""Lee, Bruce""",Otro,29,Ciencias Geológicas,5,8.44,6,4,1,Boca ,169,67,166,Mediana,190,Escorpio,Mono,470
+159,,Masculino,19,Ciencias Físicas,1,6,0,4,1,,1.9,68,1.82,Alta,1.82,Aries,Serpiente,300
+160,"Stacy, Gwen",Femenino,20,Ciencias Biológicas,2,9,8,5,1,River Plate,170,65000,166,Mediana,180,Capricornio,Conejo,700
+161,Mariaa,Femenino,19,Ciencias Físicas,2,8,4,4,3,River Plate,172,550,167,Mediana,177,Escorpio,Dragón,180
+162,"Carpincho, Maca ",Femenino,23,Ciencias Químicas,2,7,1,5,5,Boca Juniors,100,50000,110,Bajita,170,Tauro,Buey,500
+163,Toro Julián,Masculino,24,Ciencias Matemáticas,3,8,7,4,1,,178,6500,170,Mediana,178,Virgo,Cerdo,400
+164,"Natalia, Natalia",Masculino,25,Ciencias Geológicas,5,7.8,4,4,1,Boca Juniors,173,65,160,Bajita,165,Escorpio,Cerdo,900
